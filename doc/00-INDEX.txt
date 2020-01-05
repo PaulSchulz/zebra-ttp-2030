@@ -1,0 +1,22 @@
+manual-imprimanta-termica-zebra-ttp2030,-usb.pdf
+  Zebra TTP 2000
+  Kiosk Receipt Printer
+  Technical Manual
+  09/14/2009
+
+ttp_2000.pdf
+  Swecoin Kiosk Printer
+  TTP 2000 Model
+  Technical Manual
+  Edition D, February 2006
+  
+zebra-technologies-ttp-2030-user-manual.pdf
+  Zebra TTP 2030
+  Windows CE Printer Driver User Guide
+  04/14/2013
+
+ttp2000-en-us.pdf
+  Zebra TTP2000
+  Kiosk Printer
+  Spare Parts Catalog
+  January 27, 2017
